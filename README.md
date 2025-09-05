@@ -1,3 +1,7 @@
+---
+
+---
+
 Ubuntu Image Fetcher
 ====================
 
@@ -23,7 +27,13 @@ Installation
 ------------
 
 1. Clone the repo:
+   
+   
+   
    `git clone https://github.com/edmondweb/Ubuntu-Requests.git`
+   
+   
+   
    `cd Ubuntu-Requests`
 
 2. Install dependencies:
